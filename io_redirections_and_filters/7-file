@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "Holberton School" > "$(cat << 'EOF'
-\*\\'"Holberton School"'\\*$\?\*\*\*\*\*:)
+\*\\'"Holberton School"'\\\ *$\?\*\*\*\*\*:)
 EOF
 )"
